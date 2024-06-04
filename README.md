@@ -13,4 +13,5 @@ If you have something to add, like:
 - a new resource,
 - commentary on a resource,
 - or additional links relating to a resource,
+
 feel free to contribute by submitting a pull request.
