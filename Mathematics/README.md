@@ -5,7 +5,7 @@ Resources on areas of math that are closely related to computer science. For the
 ## Books
 - [Discrete Mathematics and Its Applications](Rosen.md)
 - [Discrete Mathematics with Applications](Epp.md)
-- [Mathematics for Computer Science](MIT\ MCS.md)
+- [Mathematics for Computer Science](MIT_MCS.md)
 - [Introduction to Graph Theory](Trudeau.md)
 - [Number Theory](Andrews.md)
 - [Applied Combinatorics](Tucker.md)
