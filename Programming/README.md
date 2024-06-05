@@ -5,3 +5,5 @@ Resources that offer an interesting perspective on programming. They emphasize c
 ## Books
 - [Structure and Interpretation of Computer Programs](SICP.md)
 - [Concepts, Techniques, and Models of Computer Programming](CTMCP.md)
+- [Composing Programs](Composing Programs.md)
+- [How to Design Programs](HTDP.md)
