@@ -13,9 +13,9 @@ The structure of this repo is as follows.
 
 - [Programming](Programming/README.md)
 - [Compilers](Compilers/README.md)
-- [Data Structures and Algorithms](Data Structures and Algorithms/README.md)
+- [Data Structures and Algorithms](Data_Structures_and_Algorithms/README.md)
 - [Mathematics](Mathematics/README.md)
-- [Theory of Computation](Theory of Computation/README.md)
+- [Theory of Computation](Theory_of_Computation/README.md)
 - [Systems](Systems/README.md)
 
 ## Contributing
