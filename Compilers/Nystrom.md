@@ -1,4 +1,3 @@
-```md
 # Crafting Interpreters (1ed.)
 
 <table>
@@ -35,4 +34,3 @@ The prerequisites to studying this book are knowing some Java and C, and some ba
 ## Comments
 
 *Feel free to add your opinions and reviews of this resource in this section by submitting a pull request.*
-```
