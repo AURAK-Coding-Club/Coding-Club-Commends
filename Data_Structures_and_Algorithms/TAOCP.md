@@ -25,7 +25,7 @@ A multi-volume, work-in-progress series on algorithms and their analysis, by Don
 
 The book assumes you have some familiarity with computer systems, programming, and high school level mathematics. However, it regularly uses math far beyond that level, so you're not expected to know everything.
 
-Section 1.2 covers the mathematical background needed to make some sense of most analyses done in the series; enough to be able to analyze some algorithms yourself. The book [Concrete Mathematics](../Mathematics/Concrete Mathematics.md) expounds this exposition in textbook form.
+Section 1.2 covers the mathematical background needed to make some sense of most analyses done in the series; enough to be able to analyze some algorithms yourself. The book [Concrete Mathematics](../Mathematics/Cmath.md) expounds this exposition in textbook form.
 
 Sections 1.3.1, 1.3.2, and 1.4.1 through 1.4.3 introduce an outdated fictional assembly language MIX. The [MMIX Fascicle](https://www.mmix.cs.hm.edu/doc/fasc1.pdf) replaces these sections, introducing MMIX instead, which more accurately reflects the behavior of modern processors.
 
